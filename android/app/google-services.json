@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214262866140",
+    "project_id": "flutter-x-143",
+    "storage_bucket": "flutter-x-143.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214262866140:android:ed2ff83fd2c030970f9419",
+        "android_client_info": {
+          "package_name": "com.example.timetable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDThff50A0KcY7qxgh2DxrWgRgcQKHkgjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
